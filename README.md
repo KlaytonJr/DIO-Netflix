@@ -28,4 +28,4 @@
 
 This project was developed when I was studying Inter Front end Bootcamp of Digital Innovation One.
 
-You can see the project in this link <a href="https://klaytonjr.github.io/Techno-Cursos/cursos">Click Here</a>.
+You can see the project in this link <a href="https://klaytonjr.github.io/DIO-Netflix/">Click Here</a>.
